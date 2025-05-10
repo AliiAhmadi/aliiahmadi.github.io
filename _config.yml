@@ -22,14 +22,14 @@ repository               : "aliiahmadi/aliiahmadi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.jpg"
+  name             : "Ali Ahmadi Rogh Abadi"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  # location         : "Earth"
+  employer         : "University of Tehran"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ali.ahmadi9@ut.ac.ir" 
 
   # Academic websites
   academia         : # URL
