@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 # locale                   : "en-US"
-site_theme               : "default"
-title                    : "Your Name / Site Title"
+site_theme               : "light"
+title                    : "Ali Ahmadi Rogh Abadi"
 title_separator          : "-"
 name                     : &name "Ali Ahmadi Rogh Abadi"
 description              : &description "personal description"
